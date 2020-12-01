@@ -20,7 +20,7 @@ class ViewController: UIViewController {
     }
 
     @IBAction func onTap(_ sender: Any) {
-        print("POGGERS!!! <3")
+        print("Hello")
         
         view.endEditing(true)
     }
